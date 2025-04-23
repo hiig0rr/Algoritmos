@@ -1,3 +1,8 @@
+/*esse algoritmo recebe dois números inteiros dados pelo usuario e soma eles, após isso 
+o usuario adiciona mais dois números e ele tambem os soma e divide o priemeiro resultado pelo segundo*/
+
+
+
 #include <stdio.h>
 int main() {
     int num1, num2, num3, num4;
