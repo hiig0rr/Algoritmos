@@ -1,3 +1,8 @@
+/*esse recebe as informaçoes basicas de um cidadão (idade, sexo, nacionalidade e se possui alguma
+deficiencia grave) e depois diz se ele esta apto ou nao para o alistamento militar obrigatorio*/
+
+
+
 #include <stdio.h>
 #include <string.h>
 
