@@ -1,3 +1,7 @@
+/*esse algoritmo recebe um valor em float e converte ele em um numero inteiro*/
+
+
+
 #include <stdio.h>
 
 int main() {
