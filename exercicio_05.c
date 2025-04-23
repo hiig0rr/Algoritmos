@@ -1,3 +1,7 @@
+/*esse algoritmo recebe como entrada três valores (a, b & c) e calcula a fórmula de bhaskara utilizando eles*/
+
+
+
 #include <stdio.h>
 #include <math.h>
 int main() {
