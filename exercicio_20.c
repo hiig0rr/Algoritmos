@@ -1,3 +1,8 @@
+/*esse algoritmo recebe 3 caracteres dados pelo usuario e organiza eles 
+em ordem alfabetica*/
+
+
+
 #include <stdio.h>
 
 int main() {
