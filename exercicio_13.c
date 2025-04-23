@@ -1,3 +1,8 @@
+/*esse algoritmo coleta a idade do usuario em anos e
+informa a idade do mesmo em meses*/
+
+
+
 #include <stdio.h>
 
 int main() {
