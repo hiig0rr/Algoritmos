@@ -1,3 +1,6 @@
+/*esse algoritmo coleta tres numeros inteiros chamados de a, b, c 
+e organiza eles em ordem crescente*/
+
 #include <stdio.h>
 int main() {
     int a, b, c, temp;
@@ -26,7 +29,7 @@ int main() {
         c = temp;
     }
 
-    printf("Ordem crescente: %d, %d, %d\n", a, b, c);
+   printf("Ordem crescente: %d, %d, %d", a, b, c);
 
     return 0;
 }
