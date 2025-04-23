@@ -1,3 +1,6 @@
+/*esse algoritmo coleta a altura do usuario e retorna dizendo se a altura do usuário 
+é maior, menor ou igual media nacional (feminina ou masculina)*/
+
 #include <stdio.h>
 int main() {
     int altura;
