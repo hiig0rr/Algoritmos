@@ -1,3 +1,7 @@
+/*esse algoritmo tem como entrata um valor real*/
+
+
+
 #include <stdio.h>
 
 int main() {
