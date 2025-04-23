@@ -1,4 +1,4 @@
-/* esse algoritmo identifica se o valor dado pelo usuario pertence a um triangulo valido
+/*esse algoritmo identifica se o valor dado pelo usuario pertence a um triangulo valido
 e se ele é um triângulo equilátero, isósceles ou escaleno*/
 
 
