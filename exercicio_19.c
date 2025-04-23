@@ -1,3 +1,8 @@
+/*esse algoritmo pega dois numeros reais e multiplica eles de forma que o
+resultdo seja obrigatoriamente um numero inteiro*/
+
+
+
 #include <stdio.h>
 #include <math.h>
 
