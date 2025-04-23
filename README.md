@@ -1,3 +1,3 @@
 # Eng. da Computaçao ✰
-## Algoritmos - Professor Alex 
-ﾟ･*☆¸¸.•*¨*•¸¸.•*¨*¸¸.•*¨*•★★★
+## Algoritmos - Professor Alex ★
+
