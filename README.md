@@ -1,4 +1,3 @@
-# Algoritmos - eng. da computação
+# Algoritmos
 ## Professor: Alex 
-### ✶ . . . . . • ☆ • . . . . . ✶
-Turma caloura de 2025, sala N° 14 
+### ☆。*。☆。。* 。☆
