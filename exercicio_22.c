@@ -1,3 +1,8 @@
+/*esse algoritmo coleta o valor de dois resistores em paralelo e calcula a
+resistencia equivalente entre eles*/
+
+
+
 #include <stdio.h>
 
 int main() {
