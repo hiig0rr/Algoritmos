@@ -1,3 +1,7 @@
+/*esse algoritmo soma dois numeros inteiros e depois calcula a media deles*/
+
+
+
 #include <stdio.h>
 int main() {
     int num1, num2, num3, soma;
