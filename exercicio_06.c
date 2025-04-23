@@ -1,3 +1,7 @@
+/*esse algoritmo soma dois numeros inteiros dados pelo usuario e exibe o resultado*/
+
+
+
 #include <stdio.h>
 int main() {
     int num1, num2, soma;
