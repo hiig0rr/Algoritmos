@@ -1,3 +1,8 @@
+/*esse algoritmoa coleta dois numeros e devolve o resultado deles obrigatoriamente
+como um numero inteiro*/
+
+
+
 #include <stdio.h>
 
 int main() {
