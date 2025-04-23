@@ -1,3 +1,7 @@
+/*esse algoritmo recebe um número inteiro e informa ao usuario se ele é par ou ímpar*/
+
+
+
 #include <stdio.h>
 
 int main() {
