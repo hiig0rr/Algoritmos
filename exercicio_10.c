@@ -1,3 +1,6 @@
+/*esse algoritmo oferece um cardápio com no 5 opçoẽs de escolha, aonde o usuario pode 
+escolher uma delas*/
+
 #include <stdio.h>
 
 int main() {
