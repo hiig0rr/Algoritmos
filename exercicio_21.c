@@ -1,3 +1,8 @@
+/*esse algoritmo coleta dois numeros inteiros e realiza uma divisão entre eles
+ e depois diz se o resto dessa divisão resultou em um numero impar ou par*/
+
+
+
 #include <stdio.h>
 
 int main() {
