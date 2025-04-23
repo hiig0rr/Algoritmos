@@ -1,3 +1,8 @@
+/*esse algoritmo recebe dois numeros inteiro e verifica se a soma deles 
+é maior, menor ou igual a 10*/
+
+
+
 #include <stdio.h>
 
 int main() {
