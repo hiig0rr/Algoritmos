@@ -1,3 +1,6 @@
+/*ele calcula a sequencia de fibonacci utilizando memoizaçao*/
+
+
 #include <stdio.h>
 
 int memo[1000];
