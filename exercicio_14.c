@@ -1,3 +1,7 @@
+/*esse algoritmo declara dois valores reais e cinco caracteres dados pelo usuario*/
+
+
+
 #include <stdio.h>
 
 int main() {
