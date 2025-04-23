@@ -2,6 +2,7 @@
 e se ele é um triângulo equilátero, isósceles ou escaleno*/
 
 
+
 #include <stdio.h>
 int main() {
     int lado_1, lado_2, lado_3;
