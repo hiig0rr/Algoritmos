@@ -1,3 +1,7 @@
+/*esse algoritmo responde com "e" quando o usuario digita "o" e vice versa*/
+
+
+
 #include <stdio.h>
 
 int main() {
