@@ -1,3 +1,8 @@
+/*esse algoritmo recebe 5 numeros inteiros digitados pelo usuario 
+e organiza eles em ordem crescente*/
+
+
+
 #include <stdio.h>
 
 int main() {
