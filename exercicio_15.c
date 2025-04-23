@@ -1,4 +1,4 @@
-/*esse algoritmo soma dois numeros inteiros e depois calcula a media deles*/
+/*esse algoritmo soma tres numeros inteiros e depois calcula a media deles*/
 
 
 
