@@ -1,3 +1,7 @@
+/*esse algoritmo coleta 6 possiveis numeros de um sorteio*/
+
+
+
 #include <stdio.h>
 
 int main() {
