@@ -1,3 +1,8 @@
+/*esse algoritmo utiliza uma variavel tipo char que define um numero de letras especifico 
+que pode ser inserido pelo usuario, formando uma palavra*/
+
+
+
 #include <stdio.h>
 #include <string.h>
 
