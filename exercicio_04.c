@@ -1,6 +1,6 @@
-/*esse algoritmo recebe duas datas em anos, o menor valor precisa ser digitado primeiro
-e o maior valor depois -ambos precisam ser inteiros- o algoritmo deve mostrar os anos bissextos
-dentro do intervalo das duas entradas*/
+/*esse algoritmo recebe duas datas em anos, o menor valor precisa ser digitado antes
+e o maior valor depois -ambos precisam ser inteiros- o algoritmo vai mostrar ao usuario
+os anos bissextos dentro do intervalo das duas entradas*/
 
 
 
